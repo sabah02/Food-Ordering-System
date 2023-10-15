@@ -1,0 +1,5 @@
+The Food Ordering System is a Java-based application with MySQL integration and JavaFX
+GUI that enables users to view menus, place orders, and view their orders. The system
+implements Java OOP concepts for modular and maintainable code. It stores essential
+data, such as user details, menu items, and order records, in a MySQL database for
+efficient data management.
